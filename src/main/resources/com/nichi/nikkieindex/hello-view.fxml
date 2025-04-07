@@ -35,6 +35,8 @@
                         <TableColumn fx:id="sectorColumn" text="Sector" />
                         <TableColumn fx:id="adjustedPriceColumn" text="Adjusted Price" />
                         <TableColumn fx:id="divisorColumn" text="Divisor" />
+                        <TableColumn fx:id="updateSourcecolumn" text="UpdateSource"/>
+                        <TableColumn fx:id="updateTimeColumn" text="UpdateTime"/>
                     </columns>
                 </TableView>
 
